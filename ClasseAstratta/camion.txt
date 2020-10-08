@@ -1,0 +1,1 @@
+-numero telaio: GHT865TI  -modello: Iveco  -targa: AX431KL  -alimentazione: Diesel  -numero assi: 4

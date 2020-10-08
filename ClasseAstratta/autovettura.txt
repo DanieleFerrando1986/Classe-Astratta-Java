@@ -1,0 +1,3 @@
+-numero telaio: FRGH9087  -modello: 207  -targa: DC890JU  -alimentazione: Diesel  -numero posti: 5
+-numero telaio: 2345  -modello: fiat  -targa: ad345yu  -alimentazione: diesel  -numero posti: 2
+-numero telaio: 34567  -modello: peugeot  -targa: dc456op  -alimentazione: diesel  -numero posti: 5
